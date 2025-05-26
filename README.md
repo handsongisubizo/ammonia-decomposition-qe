@@ -17,7 +17,7 @@ This project explores the decomposition of ammonia (NH₃) on catalytic surfaces
 | **Co**   | Moderate | Low  | Lower     |   | Moderate | Low  | Lower     |
 
 ## Methodology
-- Software: Quantum ESPRESSO (PWscf)
+- Software: Quantum ESPRESSO 
 - Functional: [to be specified]
 - Pseudopotentials: [to be specified]
 - Slabs: [to be specified]
@@ -34,11 +34,10 @@ To be specified.
 > **In progress** — The project is at an early stage with many key components still under development.
 
 ## Author
-Handsome Gisubizo  
+Handson Gisubizo  
 MSE ChemBE @ Johns Hopkins University  
 GitHub: [handsongisubizo](https://github.com/handsongisubizo)  
-Email: hgisubi1@jhu.edu
+Email: hgisubi1@jh.edu
 
 ---
 
-Feel free to fork or contribute as the project progresses!
