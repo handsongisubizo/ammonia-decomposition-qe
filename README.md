@@ -35,9 +35,8 @@ To be specified.
 
 ## Author
 Handson Gisubizo  
-MSE ChemBE @ Johns Hopkins University  
 GitHub: [handsongisubizo](https://github.com/handsongisubizo)  
-Email: hgisubi1@jh.edu
+
 
 ---
 
