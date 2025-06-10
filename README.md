@@ -2,19 +2,11 @@
 
 This project explores the decomposition of ammonia (NH₃) on catalytic surfaces such as Ruthenium (Ru), Platinum (Pt), Nickel (Ni), and Cobalt (Co) using Density Functional Theory (DFT) calculations performed with Quantum ESPRESSO.
 
-## Project Goals
+## Goals
 - Compare adsorption of NH₃ and decomposition intermediates (NH₂, NH, N, H) on Ru, Pt, Ni, and Co surfaces
 - Calculate adsorption energies, geometries, and charge transfer
 - Analyze surface properties influencing catalytic activity
-- Identify trends and rational catalyst design principles
-
-## Catalysts Considered
-| Catalyst | Activity | Cost | Stability |
-|----------|----------|------|-----------|
-| **Ru**   | High     | High | High      |
-| **Pt**   | Moderate | High | Very High |
-| **Ni**   | Moderate | Low  | Medium    |
-| **Co**   | Moderate | Low  | Lower     |   | Moderate | Low  | Lower     |
+- Identify trends 
 
 ## Methodology
 - Software: Quantum ESPRESSO 
@@ -27,7 +19,7 @@ This project explores the decomposition of ammonia (NH₃) on catalytic surfaces
 - Adsorption energy: 
   \[ E_{ads} = E_{slab+adsorbate} - E_{slab} - E_{adsorbate} \]
 
-## Project Structure (Planned)
+## Project Structure 
 To be specified.
 
 ## Status
